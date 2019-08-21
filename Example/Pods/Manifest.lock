@@ -1,0 +1,16 @@
+PODS:
+  - LCCoServers (0.1.0)
+
+DEPENDENCIES:
+  - LCCoServers (from `../`)
+
+EXTERNAL SOURCES:
+  LCCoServers:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCCoServers: 11c2af38ce56f717c89d8f0e5d3fc18959f97a81
+
+PODFILE CHECKSUM: 3e2df440c36c275cde87a3831dc6708cd3e7b656
+
+COCOAPODS: 1.7.3

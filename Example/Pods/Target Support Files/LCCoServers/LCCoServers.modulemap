@@ -1,0 +1,6 @@
+framework module LCCoServers {
+  umbrella header "LCCoServers-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_LCCoServers_Example {
+  umbrella header "Pods-LCCoServers_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
