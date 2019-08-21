@@ -23,7 +23,7 @@
     NSString *thePath = [[NSBundle bundleWithPath:[[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent:@"Resource"]] pathForResource:@"localhost" ofType:@"p12"];
     NSData *PKCS12Data = [[NSData alloc] initWithContentsOfFile:thePath];
     CFDataRef inPKCS12Data = (__bridge CFDataRef)PKCS12Data;
-    CFStringRef password = CFSTR("b123456");
+    CFStringRef password = CFSTR("123456");
     const void *keys[] = { kSecImportExportPassphrase };
     const void *values[] = { password };
     CFDictionaryRef optionsDictionary = CFDictionaryCreate(NULL, keys, values, 1, NULL, NULL);
