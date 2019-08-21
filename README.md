@@ -1,4 +1,5 @@
 # LCCoServers
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/905579522@qq.com/LCCoServers.svg?style=flat)](https://travis-ci.org/905579522@qq.com/LCCoServers)
 [![Version](https://img.shields.io/cocoapods/v/LCCoServers.svg?style=flat)](https://cocoapods.org/pods/LCCoServers)
@@ -27,3 +28,5 @@ pod 'LCCoServers'
 ## License
 
 LCCoServers is available under the MIT license. See the LICENSE file for more info.
+=======
+>>>>>>> 9160149540bbcf7013dc4a39015a6eb98b3f6e67
