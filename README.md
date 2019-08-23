@@ -23,7 +23,7 @@ pod 'LCCoServers'
 
 ## Author
 
-905579522@qq.com, 121470218@qq.com
+905579522@qq.com
 
 ## License
 
